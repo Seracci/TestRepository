@@ -12,7 +12,7 @@ public class RecurrenciaPrueba {
 
 	public static void main(String[] args) {
 		int[] v = {5, 4, 3, 9};
-		System.out.println(numeroMenor(v, v[0], 0));
+		System.out.println(numeroMenor(v, v[0], 1));
 	}
 
 }
